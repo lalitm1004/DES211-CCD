@@ -46,3 +46,42 @@
 
 10. How often do you find mixed waste in the dustbins outside your hostel rooms?
 > range
+
+## Existing Solution
+
+### Prop Up Rails
+1. Pros:
+   1. Makes it slightly more difficult to tip over
+   2. Easy to maintain, made of stainless steel to avoid corrosion.
+   3. The ability to swing the bins makes it easy for cleaning staff to take the trash out.
+2. Cons:
+   1. The axis of balance makes it easy for the bins to swing, which can lead to segregated waste falling out.
+   2. Theyre hefty, hard to assemble (requires welding) and difficult to transport in bulk.
+   3. Even these rails are lacking in most places.
+
+### Color Coded Bins
+1. Pros:
+   1. Colors are distinct enough to be valid indicators
+2. Cons:
+   1. A lack of distinct consistent and obvious labelling, paired with color being the primary indication (possibly handicaps colorblind folk).
+   2. Even color coded bins are usually lone standing on campus, causing ppl to mix waste.
+
+### Meme Campaign
+The student council put memes on nescafe tables where it was common for ppl to not throw away their waste.
+1. Pros:
+   1. Fun engaging way to incentivize disposal of waste in its appropriate bin.2
+   2. Didnt use guilt as a tactic.
+2. Cons:
+   1. The meme selections were unfunny.
+   2. The poor handling of the pasting led to fungus growth, which is a biohazard.
+   3. The phrasing was too verbose and dissuaded ppl from lookin at them
+
+### Trashcan Lids
+1. Pros:
+   1. Keeps flies away from organic waste
+   2. Obscures ppls vision from the waste
+2. Cons:
+   1. Lids do not fasten properly, causing them to be askew or fall off easily.
+   2. The lids also introduce overhead with taking the trash out. Too many disjoint parts
+   3. The openings are prone to causing trash to fall out again.
+   4. The lids are designed inaccessibly because of the rquirement of users to put their hand inside to ensure proper disposal.
