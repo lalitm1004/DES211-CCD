@@ -85,3 +85,23 @@ The student council put memes on nescafe tables where it was common for ppl to n
    2. The lids also introduce overhead with taking the trash out. Too many disjoint parts
    3. The openings are prone to causing trash to fall out again.
    4. The lids are designed inaccessibly because of the rquirement of users to put their hand inside to ensure proper disposal.
+
+
+# 🎙️ Final Script Empathy (2 minutes)
+> 
+>“Every day on campus, hundreds of students dispose of waste—plastic wrappers, leftover food, used notebooks, broken chargers. But while we think we're being responsible, the system we're using is broken.”
+
+> 
+>“Most bins stand alone, unmarked, and often indistinguishable. There’s no visual or textual guidance to tell us what belongs where. So we do what’s easiest—we throw everything into the nearest bin. And with that one act, any chance of effective waste segregation is lost.”
+
+> 
+>“Even when there are separate bins, dogs or wind often knock them over, spilling and mixing the contents. In some hostels, students report seeing mixed waste almost daily.”
+
+> 
+>“We ran a campus-wide survey. The results were clear. Most students want to segregate waste properly. But they don’t know where to throw e-waste. They’re unsure how to classify their trash. They say: ‘It’s confusing’, ‘There’s no clear signage’, ‘Where do I throw broken glass?’”
+
+> 
+>“And then there’s bulk waste—old books, broken electronics, projects—that gets dumped randomly because the system isn’t designed for scale or special cases.”
+
+> 
+>“The conclusion is obvious. The problem isn’t a lack of care. It’s a lack of clarity. Our bins are unintuitive. The system is failing, not the people.”
