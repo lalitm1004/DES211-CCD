@@ -24,6 +24,8 @@ This project stems from on-ground observations made on campus, where poorly impl
 
 In this report, we’ll explore the common challenges people face with traditional trashcans, such as struggling to sort waste correctly, keeping it separated once it’s in, and avoiding situations where the disposal system ends up making more of a mess than it prevents. We’ll also explore straightforward, modular design and implementation improvements that address these issues head-on, hopefully coming up with an improved design that includes easy solutions to common disposal and segregation related issues. 
 
+---
+
 
 
 
