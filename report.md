@@ -62,7 +62,8 @@ We start with observations we made ourselves while looking for how to approach t
 These offer very valuable insight into what problems we can target right off the bat. However these observations are compounded by the results we got from our survery.
 We conducted a survey that asked users the following questions:
 "Insert questions here"
- 
+
+List of pain points: "Below, needs to be expanded slightly" 
 These questions were designed with the problems we noticed ourselves, along with possible things we believed people would have observed. The final data of the survey lead us to the following inferences:
 - Most people face issues with segregation
 - People notice fallen dustbins frequently
@@ -121,6 +122,16 @@ These solutions leave much to be desired, so we will see how we can fix those an
 ---
 
 ### Define Phase
+
+We will now focus on the major issues that we will try to address throughout this project. Over the course of the empathy phase we recognized a lot of problems that students face, may it be problems in the existing solutions or problems in general. 
+
+
+1. Intuitive Design: An intuitive design allows people to immediately undestand how the dustbin is meant to be used and where we can dispose what kinds of waste. The clear idea of what each bin is meant for reduces misuse and hesistation from people in using pins, as was observed above where people would hesistate from using bins because they werent sure of which one to use. This is crucial for proper waste segragation.
+2. Sturdy Design: A strong and stable design prevents the dustbins from being easily knocked over by the dogs, wind or just accidental bumbs. This maintains the cleanliness and avoids the need to re-collect scattered waste. This ensures the system stays functional in busy parts of the campus.
+3. Modularity: Modular dustbins will make it a lot more convenient to transport, assemble and install waste disposal units in a huge variety of spaces, each with their own needs and requirements. This flexibility helps drive the cost down and makes it feasible to install more dustbins in areas where they were previously lacking.
+4. Proper demarcation: Clearly marked bins eliminate confusion and ensure that people will be able to dispose of their waste correctly. Use of distinct colors, textures, labels and symbols will alow people to quickly identify the approproiate bin for their waste and lead to effective segragation. This will also reduce contanmination  of recyclable materials by ensuring they end up in places where they can be sent for recycling.
+5. Hygiene Features: Designs that minimize contact with the dustbins make the bins more hygienic to use, and makes people more likely to use them in a public space. This encourages usage as it reduces the risk of contamination and makes users not feel disgusted or uncomfortable when using the bins.
+6. Aesthetic Appeal: Visually appealing bins that enhance their environment or blend in are more likely to be used. When the bins are not seen as dirty parts of the space, rather appealing parts that help keep the rest of the space clean, the perception among the users will become better and increase usage.  
 
 
 ---
