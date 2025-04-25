@@ -46,35 +46,47 @@ The problems only begin to address the issues that are within the currently exis
 
 ### Empathy Phase
 
-As stated above, the users we will focus on majorly are students and workers. The students make up the majority of the population on campus and hence produce the most amount of waste. And sanitation workers are to interact with this waste consistently, so they must not be at any risk of infections while dealing with it.
+**Identifying our stakeholders:**
+Our major focus is on two user groups: Students and Sanitation workers.
+- Students form the largest demographic on campus and are hence the largest contributors to the waste generation. Their habits and awareness (or lack thereof) heavily influence te effectiveness of any waste disposal system.
+- Santitation workers regualarly interact with waste. Ensuring their safety and ease of work along with protection from potential health hazards is crucial. Any system that requires them to sort or handle the mixed waste after disposal increases theri exposure to possible biohazards and sharp or improperly discarded objects like broken glass. 
 
-We will focus majorly on how to make waste segragation more convenient and accessible for everyone with any changes in the current system of disposal that are currently inhibiting these. The system should allow for people to naturally develop good habits regarding waste, in both the disposal and segragating while disposing.   
+We design with both of these groups in mind to develop an effective, intuitive, safe and easy to maintain waste disposal system. 
 
+
+We will focus majorly on how to make waste segragation more convenient and accessible for everyone. We aim to tackle inefficiencies and friction points in the current system that discourage proper use. A successful design will encourage users to develop positive waste habits naturally, through an environment that supports and nudges correct behavior withotu requiring constant enforcement from elsewhere.   
+
+**Observations from the field:**
 We start with observations we made ourselves while looking for how to approach the problem: 
-- A lot of dustbins on campus are lonestanding. This obviously results in all categories of waste being disposed off together, which is not ideal.
-- No one knows how to dispose of e-waste, no awareness etc. Degradable and non-degradable arent the only two categories.
-- Like the previous point, glass shards cannot be thrown with regular waste due to safety concerns.
-- At the end of semesters, students cannot easily exchange their used books with the raddi wala.
-- Specifically for 4th years, they are not going to utilize the cloakroom facility, and will dispose of a lot more waste.
-- Most bins are not marked with the appropriate waste category.
-- Dogs tip over pre-segregated bins which ruins all effort.
+- Lone-standing Bins: Many dustbins are placed individually rather than in groups. This results in mixed waste being thrown in the asme bin as users dont have the visibility or clarity as to whats supposed to go in the bin. And the lack of convenient options for separating make segragation harder for people to partake in. 
+- Lack of awareness about E-waste: Most students are unsure of how or where to dispose of e-waste, such as batteries, chargers, or broken devices, There is little to no visible signage or designated bins for these items.
+- Improper Disposal of Hazardous Materials: Items like broken glass or sharp metal pieces are often discarded with general waste, posing a direct safety threat to sanitation workers. 
+- Book Disposal and Reuse: At the end of each semester, there is no organized way for students to give away or recycle their books. The traditional "raddi wala" system is inaccessible, resulting in avoidable waste.
+- Increased Waste from Graduating students: Fourth Year students often dispose large quantities of belongings that they don't need anymore all at once, especially as they vacate hostels. This results in unmanageable waste surges that the current system cannot fix.
+- Unmarked or Poorly marked bins: Many dustbins lack labels indicating what kind of waste should go into them. This ambiguity leads to misuse and defeats the purpose of segragation. 
+- Tipped bins: Dogs frequently knock over bins, especially in the academic blocks, resulting in scattered waste and re-contamination of previously segragated waste. 
 
-These offer very valuable insight into what problems we can target right off the bat. However these observations are compounded by the results we got from our survery.
-We conducted a survey that asked users the following questions:
-"Insert questions here"
+These offer very valuable insight into what problems we need to target and form the base for the changes we decided to investigate further through our survey.
 
-List of pain points: "Below, needs to be expanded slightly" 
+**Survey and User Feedback:**
+To deepen our understanding, we conducted a survey that targeted the campus residents. We asked the following key questions: 
+"Insert questions"
+ 
+These questions were framed based on our initial observations and covered a broad range of potential user pain points. The responses provided critical insights and helped valigate our earlier assumptions. 
+
+**Pain Points:**  
 These questions were designed with the problems we noticed ourselves, along with possible things we believed people would have observed. The final data of the survey lead us to the following inferences:
-- Most people face issues with segregation
-- People notice fallen dustbins frequently
-- Majority of people face issues with classifying waste
-- Overwhelming majority of people dont know where to dispose e-waste
-- Overwhelming majority of people feel there is a lack of places to dispose of recyclable waste
-- People use trashcans 3-5 times a day
-- People notice mixed waste in bins outside their hostel rooms very frequently
+- A significant number of users reported difficulty in segragating their waste, especially in the absence of visual guidance or clear options on how to dispose waste. 
+- Fallen or tipped-over bins are frequently observed by people, leading to scattered waste. This can cause people to be demotivated from using the bins properly.
+- Users face confusion when classifying waste items - where certain materials are recyclable, degradable, or hazardous is not really clear or obvious to people. 
+- An overwhelming majority of people said they have no clue on where to idspose of e-waste, highlighting a major gap in both infrastructure and awareness degarding proper procedure for disposal of such.
+- Many users expressed that there are not enough designated bins for recyclable bins, making it inconvenient to practice eco-friendly habits.
+- Most students reported using trashcans around 3-5 times a day, which shows the high interaction rate that each bin has for a huge campus like ours, and hence the importance of getting the design correct is even higher.
+- Mixed waste was frequetly seen in bins located near hostel rooms, indicating a breakdown of the intended system.
 
-With these, we can see that a lot of issues that people have observed, and now we will look at the existing solutions and see how we can improve upon them all.
+These insights paint a clear picture of a system that needs thoughtful intervention — not just new bins, but a comprehensive redesign of the waste disposal experience. From awareness to physical infrastructure to behavioral cues, the entire process must be improved to reduce user confusion, increase sanitation worker safety, and ensure long-term sustainability.
 
+Now we will look at existing solutions and how they have stood up to all the above noted problems. 
 ## Existing Solution
 
 ### Prop Up Rails
