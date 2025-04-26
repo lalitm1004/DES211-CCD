@@ -32,7 +32,7 @@ In this report, we’ll explore the common challenges people face with tradition
 
 Waste Segragation on the surface sounds like a very simple issue that can be fixed with having just two dustbins. But its a lot more complicated and important issue that needs to be faced upfront. Any society or community produces a lot of waste over any period of time. Proper disposal of waste is key to maintaining hygiene and functioning. A lack of care in this can result in disease and infection spreading rapidly, or on a lighter note make the environment a lot less pleasant.
 
-This problem affects a wide variety fo people, from students to workers, professors to staffs. The biggest effect is on the workers who clean the campus. If the waste is not segragated properly, the workers run the risk of catching some disease each time they dispose of waste. The risk with disposal should be minimum, ideally none, and this can be ensured with proper care taken in the collection of waste. The students are also affected by an unwell environment, their performance tanked by a lack of cleanliness. The local animals run the risk of eating some waste that is very unhealthy for them, so even they are to be accounted for here.
+This problem affects a wide variety of people, from students to workers, professors to staffs. The biggest effect is on the workers who clean the campus. If the waste is not segragated properly, the workers run the risk of catching diseases each time they dispose of waste. The risk with disposal should be minimum, ideally none, and this can be ensured with proper care taken in the collection of waste. The students are also affected by an unwell environment, their performance tanked by a lack of cleanliness. The local animals run the risk of eating some waste that is very unhealthy for them, so even they are to be accounted for here.
 
 The problem starts with the way the dustbins are present on campus. Most dustbins are lone standing, so even if you wanted to be careful about separating different kinds of waste, chances are you wouldn't be able to do that. The lack of convenience with segragation of waste a major issue, as because of it a lot of people who would want to care about proper disposal are unable to act up on it. 
 
@@ -107,9 +107,9 @@ Now we will look at existing solutions and how they have stood up to all the abo
    2. Even color coded bins are usually lone standing on campus, causing ppl to mix waste.
 
 ### Meme Campaign
-The student council put memes on nescafe tables where it was common for ppl to not throw away their waste.
+The student council put memes on nescafe tables where it was common for people to not throw away their waste.
 1. Pros:
-   1. Fun engaging way to incentivize disposal of waste in its appropriate bin.2
+   1. Fun engaging way to incentivize disposal of waste in its appropriate bin.
    2. Didnt use guilt as a tactic.
 2. Cons:
    1. The meme selections were unfunny.
