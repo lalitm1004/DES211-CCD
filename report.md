@@ -147,3 +147,14 @@ We will now focus on the major issues that we will try to address throughout thi
 
 
 ---
+
+---
+
+## Ideation
+
+### Brainstorming sessions
+We held brainstorming sessions to tackle each of the points in the define session one by one. This gave us a plethora of ideas that solve each problem, leaving us free to pick and choose the optimal solution.
+
+### Sketches
+Most meetings were held in library study rooms, where we drew rough sketches on the whiteboard which were then later documented on paper.
+
