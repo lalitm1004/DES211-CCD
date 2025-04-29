@@ -158,3 +158,61 @@ We held brainstorming sessions to tackle each of the points in the define sessio
 ### Sketches
 Most meetings were held in library study rooms, where we drew rough sketches on the whiteboard which were then later documented on paper.
 
+![alt text](Untitled_Artwork-1.png)
+
+This first issue we focused on was the dustbin's stability. As tipped dustbins are a major pain point, we needed to focus on them first to ensure that the design works.
+Our first ideas were to focus on this. We firstly thought up of a slanted support that can be placed near the bottom of the bins. This will be a sturdy material that can be placed on each side of the bin that will hold the bin up. This will have to be slightly heavy to be of proper use.
+The other idea we had was to use flat support. A thinner piece of some material that will be placed at the bottom of the bins that will ground the bins properly. This material will have to be slightly heavy, however it will be very easy to install and provide pretty good support to the bin.
+
+
+![alt text](Untitled_Artwork-2.png)
+
+Our other idea about the tipping was to just make the bottom part of the dustbin very heavy. Since most animals on campus are not very tall or high reacing, the dustbins will be hard to tip over if the weight was strongly distributed close to the bottom. This will sort of work like the toys that you can punch and they stand back up. A heavy base will allow the dustbin to fall back into place from a substantial amount of tipping forces.
+We noticed that in places like CnD and Central Vista, the ground is soft. So we can use spikes to plant the dustbins inside the ground. This would be excellent support for outside places, as the spikes can hold the bins in place very firmly. 
+For indoor spaces where the ground is smooth and tiled, we can use a base that contains suction cups. On smooth surfaces the suction cups can generate enough pressure to hold the bins in place and then the weight of the bins will help in holding the bins in place.
+We then thought of a modified slanted supporting mechanism. We would add a plastic piece to the front and back of the dustbins. These parts will have to be sturdy and designed so that they can fold into the main body of the bin and then pushed out when needed. Them being foldable allows the bins to be placed near pre-existing support structures like walls or railings, and they can be aligned by folding the wall-facing part of the support in.
+We also thought of bins that use a sensor or microcontroller to sense if the bin is upright or not, and if it senses the bin has fallen, it can produce a loud noise that will attract attention and not stop till the bin is made upright again. This design is not very practical but it can hint at another possible idea.
+
+
+![alt text](Untitled_Artwork-3.png)
+
+The final idea for the tipping is to add a small screen to the front of the bin that will be hooked up to a sensor or microcontroller that will detect whether the bin is upright or not. If the bin is falled it will make a face that is sad, and when the bin has been lifted or someone throws in trash the bin will make a happy face. This will incentivize people to try and lift the dustbin up and hence they will also pay attention not to tip it over.
+Our next few ideas were regarding making the dustbin convenient for both the users and the people installing it.
+The first of these was to give a rotating lid to the top of the bin that is held together by an axle going through its center. This lid will provide a touch free solution and it will also cover the trash in the dustbin and reduce user discomfort regarding using the bins.
+The garbage bags need to be held tightly so as to make sure that they dont fall into the bins, as that would make the collection of the garbage much harder and more uncomfortable for the sanitation workers. We employed the use of clips in the garbage bin that can be used to hold the garbage bags firmly. This will make sure it does not fall in and the trash can be easily collected by unclipping the bag and picking it up directly. 
+Our next few ideas were regarding modularity. We started with making the bins chain together using lego connectors. This goes well with our earlier idea of the flat base that holds the bins in place, as these connectors can be made on those pieces and then be used to chain the bins together. 
+Sliding groves on the sides of the bin are also an idea we had as they made sure the bins will be held together properly and in a very secure manner. Also if bins are chained together, it can be used to provide support in on direction, making the bins much harder to tip.
+
+
+![alt text](Untitled_Artwork-4.png)
+
+The lid of the dustbin has a very prominent existing solution, that being using a foot pedal to lift up the dustbins lid and throw in the trash. This is a very standard solution and works fairly well for the most part.
+We can also have sensors that detect hand movement on the top of the bin of the dustbin and opens the lid when it detects a hand. This will minimize contact a lot and also basically eliminate any amount of discomfort that can come from looking at the garbage in the bin. This design is the hardest to implement but very valuable.
+We can also have a small compartment on the bin that holds extra garbage bags. This will increase the convenience for the workers as they can just attach a new bag on days with extensive usage without having to worry about looking for a bag.
+Since the dustbins are supposed to be usable for a variety of use cases, we thought of having a decently sized compartment that can be used to hold labels for the bins. This provides flexibility as the dustbins can be used for multiple different garbage classification systems. Swapping the labels allows for changing the bins for any immediate needs without much work.
+
+
+![alt text](Untitled_Artwork-5.png)
+
+For the lid, another idea would be to have a secure, tightly attaching lid horizontal lid. This will help with the cases of animals and make sure they are unable to access the garbage, leading to a lot more hygienic disposal. And it also discourages litter dumping, making it better for controlled environments.
+The lid can also be a fan-like retracting lid, that folds up into small segments. This is very space efficient, and helps in 
+controlling the odor and limits germ exposure. This is very useful for indoor dustbins. The retracting lid also minimizes the chance of 
+it breaking down or getting stuck.
+We can have the garbage bags be color coded to express what kind of waste is supposed to go in the dustbin. This will simplify the work 
+for both users, as students can identify the specific dustbins usecase, and the sanitation workers will know the type of waste they are
+picking up and hence they can easily segregate and dispose the collected waste.
+
+---
+---
+
+### Prototyping and Test Phase
+
+
+
+---
+
+---
+
+### Final Design
+
+---
